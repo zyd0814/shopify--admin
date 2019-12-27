@@ -1,0 +1,22 @@
+{
+  "/vendors.css": "/vendors.17ae3744.chunk.css",
+  "/vendors.js": "/vendors.1442a5e7.async.js",
+  "/layouts__BasicLayout.css": "/layouts__BasicLayout.14f9ad42.chunk.css",
+  "/layouts__BasicLayout.js": "/layouts__BasicLayout.c223fb63.async.js",
+  "/layouts__SecurityLayout.js": "/layouts__SecurityLayout.0e9294a9.async.js",
+  "/layouts__UserLayout.css": "/layouts__UserLayout.005449d4.chunk.css",
+  "/layouts__UserLayout.js": "/layouts__UserLayout.b3fac200.async.js",
+  "/p__404.js": "/p__404.a50f90eb.async.js",
+  "/p__custom__Index.js": "/p__custom__Index.f1f450d5.async.js",
+  "/p__custom__add__Index.js": "/p__custom__add__Index.07de7b0e.async.js",
+  "/p__set__Index.js": "/p__set__Index.2d5edb7a.async.js",
+  "/p__user__login.css": "/p__user__login.9c481dfc.chunk.css",
+  "/p__user__login.js": "/p__user__login.cbb0c2e7.async.js",
+  "/umi.css": "/umi.1dccb686.css",
+  "/umi.js": "/umi.21669b31.js",
+  "/favicon.png": "/favicon.png",
+  "/icons/icon-128x128.png": "/icons/icon-128x128.png",
+  "/icons/icon-192x192.png": "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png": "/icons/icon-512x512.png",
+  "/index.html": "/index.html"
+}
